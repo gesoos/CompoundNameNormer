@@ -1,1 +1,1 @@
-# CompountNameNormer
+# CompoundNameNormer
